@@ -15,7 +15,6 @@ Hello, I'm @Kuzko-coder
 - 😄 Pronouns: I, my, me, to me, mine, my.
 - ⚡ Fun fact or lesson: And the son of errors difficult and paradoxes faithful friend.
 
-- 
 <!---
 Kuzko-coder/Kuzko-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
