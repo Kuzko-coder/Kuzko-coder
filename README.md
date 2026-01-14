@@ -23,17 +23,17 @@
 ### 📊 Статистика активности
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kuzko-coder&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuzko-coder&layout=compact&theme=tokyonight&hide=html" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kuzko-coder&show_icons=true&theme=dark&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuzko-coder&layout=compact&theme=dark&hide=html" />
 </p>
 
 ---
 
 ### 📫 Как со мной связаться
 
-- 📧 **Электронная почта:** [info@kuzko.su](mailto:info@kuzko.su)
-- 🌐 **Сайт:** [kuzko.su](https://kuzko.su)
-- 🤖 **Специализация:** Разработка AI-агентов, автоматизация бизнес-процессов, высоконагруженные Telegram-системы.
+- 📧 **E-mail:** [info@kuzko.su](mailto:info@kuzko.su)
+- 🌐 **Website:** [kuzko.su](https://kuzko.su)
+- ✈️ **Telegram:** [@Kuzko_LTD](https://t.me/Kuzko_LTD)
 
 ---
 
@@ -43,5 +43,5 @@
 - 💬 Спрашивайте меня о: Автоматизации на Python и архитектуре ботов
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kuzko-coder/Kuzko-coder/main/kuzko_avatar_logo.png" width="100" />
+  <b>Powered by KUZKO</b>
 </p>
