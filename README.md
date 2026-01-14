@@ -8,37 +8,32 @@
 
 ### 🛠 Мой технологический стек
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
 
-### 📊 Статистика активности
+### 📊 Активность на GitHub
 
-[![Kuzko-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuzko-coder&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Kuzko-coder)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuzko-coder&layout=compact&theme=tokyonight&hide=html)](https://github.com/Kuzko-coder)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuzko-coder&show_icons=true&theme=transparent#gh-dark-mode-only" alt="GitHub Stats" width="400" />
+</p>
 
 ---
 
 ### 📫 Как со мной связаться
 
-- 📧 **E-mail:** [info@kuzko.su](mailto:info@kuzko.su)
-- 🌐 **Website:** [kuzko.su](https://kuzko.su)
+- 📧 **Почта:** [info@kuzko.su](mailto:info@kuzko.su)
+- 🌐 **Сайт:** [kuzko.su](https://kuzko.su)
 - ✈️ **Telegram:** [@Kuzko_LTD](https://t.me/Kuzko_LTD)
 
 ---
 
 ### ⚡ Блиц-инфо
-- 🔭 Сейчас я работаю над: **TG-Manager Ecosystem**
-- 🌱 Я изучаю: Продвинутые LLM-архитектуры и высокоуровневый мониторинг
-- 💬 Спрашивайте меня о: Автоматизации на Python и архитектуре ботов
+- 🔭 В работе: **TG-Manager Ecosystem**
+- 🌱 Изучаю: LLM-архитектуры и мониторинг
+- 💬 Stack: Python, Node.js, AI Agents
 
 <p align="center">
-  <b>Powered by KUZKO</b>
+  <b>Developed for KUZKO-LTD</b>
 </p>
