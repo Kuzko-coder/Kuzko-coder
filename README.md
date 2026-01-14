@@ -1,16 +1,47 @@
-## Hi there 👋
+# Привет! Я Kuzko-coder 👋
 
-<!--
-**Kuzko-coder/Kuzko-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Lead Developer @ [KUZKO-LTD](https://kuzko.su)
 
-Here are some ideas to get you started:
+Я создаю сложные системы автоматизации, ИИ-сервисы и масштабируемые решения для Telegram. Моя страсть — превращать сложные задачи в элегантный и эффективный код.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Мой технологический стек
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
+
+---
+
+### 📊 Статистика активности
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kuzko-coder&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuzko-coder&layout=compact&theme=tokyonight&hide=html" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+
+- 📧 **Электронная почта:** [info@kuzko.su](mailto:info@kuzko.su)
+- 🌐 **Сайт:** [kuzko.su](https://kuzko.su)
+- 🤖 **Специализация:** Разработка AI-агентов, автоматизация бизнес-процессов, высоконагруженные Telegram-системы.
+
+---
+
+### ⚡ Блиц-инфо
+- 🔭 Сейчас я работаю над: **TG-Manager Ecosystem**
+- 🌱 Я изучаю: Продвинутые LLM-архитектуры и высокоуровневый мониторинг
+- 💬 Спрашивайте меня о: Автоматизации на Python и архитектуре ботов
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kuzko-coder/Kuzko-coder/main/kuzko_avatar_logo.png" width="100" />
+</p>
