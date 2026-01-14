@@ -13,26 +13,18 @@
 
 ---
 
-### 📊 Активность на GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuzko-coder&show_icons=true&theme=transparent#gh-dark-mode-only" alt="GitHub Stats" width="400" />
-</p>
-
----
-
 ### 📫 Как со мной связаться
 
-- 📧 **Почта:** [info@kuzko.su](mailto:info@kuzko.su)
+- 📧 **E-mail:** [info@kuzko.su](mailto:info@kuzko.su)
 - 🌐 **Сайт:** [kuzko.su](https://kuzko.su)
 - ✈️ **Telegram:** [@Kuzko_LTD](https://t.me/Kuzko_LTD)
 
 ---
 
 ### ⚡ Блиц-инфо
-- 🔭 В работе: **TG-Manager Ecosystem**
-- 🌱 Изучаю: LLM-архитектуры и мониторинг
-- 💬 Stack: Python, Node.js, AI Agents
+- 🔭 Сейчас я работаю над: **TG-Manager Ecosystem**
+- 🌱 Я изучаю: Продвинутые LLM-архитектуры и высокоуровневый мониторинг
+- 💬 Спрашивайте меня о: Автоматизации на Python и архитектуре ботов
 
 <p align="center">
   <b>Developed for KUZKO-LTD</b>
